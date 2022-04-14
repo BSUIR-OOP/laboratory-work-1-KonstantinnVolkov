@@ -1,9 +1,13 @@
+package Figures;
+
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class Figures {
 
-    public static final ArrayList<Figures> figures = new ArrayList<>();
+    private static final List<Figures> figures = new ArrayList<>();
 
     static {
        figures.add(new Trapezium(1, 2, 3, 4) );
@@ -14,11 +18,11 @@ public class Figures {
        figures.add(new Circle(21, 22, 23, 24) );
     }
 
-    protected double x1;
-    protected double x2;
-    protected double y1;
-    protected double y2;
-    protected String nameOfFigure;
+    private final double x1;
+    private final double x2;
+    private final double y1;
+    private final double y2;
+    private final String nameOfFigure;
 
     public Figures(double x1, double x2, double y1, double y2) {
         this.x1 = x1;
@@ -28,28 +32,12 @@ public class Figures {
         this.nameOfFigure = getClass().getName();
     }
 
-    public double getX1() {
-        return x1;
-    }
-
-    public double getX2() {
-        return x2;
-    }
-
-    public double getY1() {
-        return y1;
-    }
-
-    public double getY2() {
-        return y2;
-    }
-
-    public String getNameOfFigure() {
-        return nameOfFigure;
+    public static void printAllFigures() {
+        figures.forEach(figure -> figure.output());
     }
 
     public void output(){
-        System.out.print(getNameOfFigure() + "(" + getX1() + ", " + getY1() + ", " + getX2() + ", " + getY2() + ") ");
-    };
+        System.out.printf("%s (%2.1f, %2.1f, %2.1f, %2.1f)",nameOfFigure, x1, y1, x2, y2);
+    }
 
 }

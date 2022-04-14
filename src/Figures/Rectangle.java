@@ -1,3 +1,7 @@
+package Figures;
+
+import Figures.Figures;
+
 public class Rectangle extends Figures {
 
 

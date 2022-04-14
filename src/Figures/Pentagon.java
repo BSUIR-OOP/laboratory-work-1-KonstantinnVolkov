@@ -1,3 +1,7 @@
+package Figures;
+
+import Figures.Figures;
+
 public class Pentagon extends Figures {
 
     public Pentagon(double x1, double x2, double y1, double y2) {
