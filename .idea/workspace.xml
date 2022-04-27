@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18fdb80c-e6de-45d5-865c-c1b48e927220" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Figures/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Figures/Figures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Figures/Pentagon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Figures/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Figures/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Figures/Trapezium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Figures/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Figures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPLAB1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Pentagon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Star.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Trapezium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPLAB1/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figures/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figures/Figures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pentagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figures/Pentagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figures/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figures/Star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trapezium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figures/Trapezium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figures/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27VIMUu3RHNWNViuYujt770LsMD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OOPLAB1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18fdb80c-e6de-45d5-865c-c1b48e927220" name="Changes" comment="" />
+      <created>1649398779356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649398779356</updated>
+      <workItem from="1649398781523" duration="3771000" />
+      <workItem from="1649406003844" duration="475000" />
+      <workItem from="1649489642722" duration="2273000" />
+      <workItem from="1649492180079" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
